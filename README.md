@@ -24,7 +24,7 @@ Javascript enthusiasist and student
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://threejs.org)
 
 # Reach me at
-[![](https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jytesh_1)
+[![](https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jytesh1)
 [![](https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/u/jytesh)
 [![](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12231980/jytesh)
 
