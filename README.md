@@ -30,5 +30,5 @@ Javascript enthusiasist and student
 
 # Stats
 	
-  <img src="https://github-readme-stats.vercel.app/api?username=Jytesh&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jytesh&theme=radical&exclude_repo=PUBobot-ki&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jytesh&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jytesh&theme=gotham&exclude_repo=PUBobot-ki&hide_border=true" />
