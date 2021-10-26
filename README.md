@@ -1,6 +1,6 @@
 # Hello!
 
-Javascript enthusiasist and student
+Javascript, Rust Programmer and Student
 # Languages
 ## Knows
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
