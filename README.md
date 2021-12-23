@@ -8,12 +8,13 @@ Javascript, Rust Programmer and Student
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.org)
+[![](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 
 ## Learning
-[![](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 # Frameworks
+[![](https://img.shields.io/badge/Svelte%20-%23000000.svg?&style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)](https://expressjs.com/)
 [![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
