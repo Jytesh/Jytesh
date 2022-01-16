@@ -12,6 +12,8 @@ Javascript, Rust Programmer and Student
 
 ## Learning
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
 
 # Frameworks
 [![](https://img.shields.io/badge/Svelte%20-%23000000.svg?&style=for-the-badge&logo=svelte)](https://svelte.dev/)
